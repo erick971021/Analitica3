@@ -1,2 +1,2 @@
-# Analitica3
-Prueba para visualizar creación de repo
+# Fundamentos de Programación
+Repositorio para trabajos de la Materia de Fundamentos de programación
